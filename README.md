@@ -1,6 +1,6 @@
 [![MasterHead](https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv)]
 <h1 align="center">Hi 👋, I'm Madhav singh</h1>
-<h3 align="center">A passionate B.Tech 4th year student from India</h3>
+<h3 align="center">A passionate B.Tech Graduate from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/875/1*lhOax3cZATGZwEhG0uTYRA.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavsingh2002&label=Profile%20views&color=0e75b6&style=flat" alt="madhavsingh2002" /> </p>
